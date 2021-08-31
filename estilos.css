@@ -1,0 +1,58 @@
+html{
+    font-family: sans-serif;
+}
+
+body{
+    background-color:#471010d0;
+}
+
+h1{
+    color: white;
+}
+
+header{
+    background-image:url(https://i.pinimg.com/736x/bc/f0/69/bcf069a3d22c708dc7d78a9ef596af99.jpg);
+    height: 54vh;
+    background-attachment: fixed;
+}
+
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    font-size: large;
+
+    color:white;
+}
+
+.bl-1{
+    background-color:#471010d0;
+    color: white;
+    font-size: 150%;
+    height: 338px;
+    width: 700px;
+}
+
+.col{
+    background-color:#180404fb ;
+    color: white;
+    font-size: 150%;
+    height: 338px;
+    width: 400px;
+    border-radius: 3%;
+}
+
+li{
+    font-size: 3pc;
+    font-family: fantasy;
+    color: tomato;
+}
+
+a { color: inherit; } 
+
+section{
+    margin: 50px auto;
+    width: 150px;
+    float: 150px;
+}
